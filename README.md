@@ -1,6 +1,5 @@
 # sample-zod-openapi
 
-
 ## create application
 ```
 ~/repo/github.com/ShinyaYoshimotoBk/sample-zod-openapi ~ branch: main =
